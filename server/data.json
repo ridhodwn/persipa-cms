@@ -1,0 +1,674 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "12345",
+      "role": "admin"
+    },
+    {
+      "username": "user",
+      "email": "user@gmail.com",
+      "password": "12345",
+      "role": "user"
+    }
+  ],
+  "players": [
+    {
+      "name": "Herlian Arif Laksono",
+      "age": 31,
+      "number": 1,
+      "about": "Herlian Laksono mengawali karier profesionalnya dengan memperkuat tim tanah kelahirannya, Persik Kendal sejak tahun 2016. Setelah 3 musim memperkuat Persik Kendal yang bermain di liga 2, ia kemudian direkrut oleh Persiraja Banda Aceh pada lanjutan babak 8 besar liga 2 2018. Penampilan ciamik Herlian Laksono selama mengarungi kompetisi Liga 2 2018 bersama Persik Kendal mendapat perhatian khusus dari sejumlah klub liga 2 lainnya. Setelah Persik Kendal resmi terdegradasi, Herlian langsung diajak bergabung oleh klub yang berlaga di babak 8 Besar. Manajemen klub berjulukan Elang Putih itu pun akhirnya melepas putra daerahnya untuk membela tim asal Aceh tersebut.",
+      "nationality": "Indonesian",
+      "position": "Goalkeeper",
+      "height": 0,
+      "weight": 0,
+      "currentTeam": "Persipa Pati",
+      "gamesPlayed": 0,
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Indonesia_flag_300.png",
+      "imgUrl": "https://lapangbola-rails-files.s3.ap-southeast-1.amazonaws.com/documents/players/HERLIAN_original_25353.webp?1673506116"
+    },
+    {
+      "name": "Riski Novriansyah",
+      "age": 33,
+      "number": 10,
+      "about": "Riski Novriansyah menjalani debutnya saat melewan Persiram Raja Ampat dengan skor akhir 1-0 untuk Gresik United. Riski tergabung dalam skuat untuk ajang Indonesia Soccer Championship B 2016. Riski membuat debutnya saat bermain melawan PSBI Blitar sekaligus mencetak satu gol pada pertandingan perdana tersebut.",
+      "nationality": "Indonesian",
+      "position": "Forward",
+      "height": 0,
+      "weight": 0,
+      "currentTeam": "Persipa Pati",
+      "gamesPlayed": 0,
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Indonesia_flag_300.png",
+      "imgUrl": "https://lapangbola-rails-files.s3.ap-southeast-1.amazonaws.com/documents/players/RISKI_N_original_25374.webp?1673506648"
+    },
+    {
+      "name": "Muhammad Fahad Abdullah",
+      "age": 25,
+      "number": 21,
+      "about": "Muhammad Fahad Abdullah (lahir 15 Mei 1998) adalah pemain sepak bola Indonesia yang saat ini memperkuat Persipa Pati. Ia berposisi sebagai Gelandang. Fahad Abdullah memperkuat Persekat Kab. Tegal pada tahun 2020 setelah sebelumnya memperkuat Persik Kediri selama 3 musim.",
+      "nationality": "Indonesian",
+      "position": "Defender",
+      "height": 0,
+      "weight": 0,
+      "currentTeam": "Persipa Pati",
+      "gamesPlayed": 0,
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Indonesia_flag_300.png",
+      "imgUrl": "https://lapangbola-rails-files.s3.ap-southeast-1.amazonaws.com/documents/players/M._FAHAD_original_25503.webp?1673506240"
+    },
+    {
+      "name": "Jorry Guruh",
+      "age": 22,
+      "number": 22,
+      "about": "Jorry Guruh melakukan debut profesionalnya di Liga 1 pada 1 Maret 2020, melawan Persipura Jayapura di mana ia bermain sebagai pemain pengganti.",
+      "nationality": "Indonesian",
+      "position": "Forward",
+      "height": 0,
+      "weight": 0,
+      "currentTeam": "Persipa Pati",
+      "gamesPlayed": 0,
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Indonesia_flag_300.png",
+      "imgUrl": "https://lapangbola-rails-files.s3.ap-southeast-1.amazonaws.com/documents/players/JORRY_GURUH_original_24618.webp?1673505748"
+    }
+  ],
+  "playerActivities": [
+    {
+      "playerId": 1,
+      "season": 2022,
+      "club": "Persipa Pati",
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "appearances": 0,
+      "winRatio": 0,
+      "drawRatio": 0,
+      "lossRatio": 0,
+      "ownGoals": 0
+    },
+    {
+      "playerId": 1,
+      "season": 2021,
+      "club": "PSMS Medan",
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "appearances": 0,
+      "winRatio": 0,
+      "drawRatio": 0,
+      "lossRatio": 0,
+      "ownGoals": 0
+    },
+    {
+      "playerId": 2,
+      "season": 2022,
+      "club": "Persipa Pati",
+      "goals": 4,
+      "assists": 2,
+      "yellowCards": 0,
+      "redCards": 0,
+      "appearances": 7,
+      "winRatio": 0,
+      "drawRatio": 0,
+      "lossRatio": 0,
+      "ownGoals": 0
+    },
+    {
+      "playerId": 2,
+      "season": 2021,
+      "club": "FC Bekasi City",
+      "goals": 1,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "appearances": 10,
+      "winRatio": 0,
+      "drawRatio": 0,
+      "lossRatio": 0,
+      "ownGoals": 0
+    },
+    {
+      "playerId": 2,
+      "season": 2021,
+      "club": "Persijap Jepara",
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "appearances": 0,
+      "winRatio": 0,
+      "drawRatio": 0,
+      "lossRatio": 0,
+      "ownGoals": 0
+    },
+    {
+      "playerId": 2,
+      "season": 2020,
+      "club": "PSMS Medan",
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "appearances": 0,
+      "winRatio": 0,
+      "drawRatio": 0,
+      "lossRatio": 0,
+      "ownGoals": 0
+    },
+    {
+      "playerId": 3,
+      "season": 2022,
+      "club": "Persipa Pati",
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "appearances": 0,
+      "winRatio": 0,
+      "drawRatio": 0,
+      "lossRatio": 0,
+      "ownGoals": 0
+    },
+    {
+      "playerId": 3,
+      "season": 2021,
+      "club": "Hizbul Wathan FC",
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "appearances": 0,
+      "winRatio": 0,
+      "drawRatio": 0,
+      "lossRatio": 0,
+      "ownGoals": 0
+    },
+    {
+      "playerId": 4,
+      "season": 2022,
+      "club": "Persipa Pati",
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "appearances": 0,
+      "winRatio": 0,
+      "drawRatio": 0,
+      "lossRatio": 0,
+      "ownGoals": 0
+    },
+    {
+      "playerId": 4,
+      "season": 2021,
+      "club": "PSIS Semarang",
+      "goals": 0,
+      "assists": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "appearances": 0,
+      "winRatio": 0,
+      "drawRatio": 0,
+      "lossRatio": 0,
+      "ownGoals": 0
+    }
+  ],
+  "galleries": [
+    {
+      "eventName": "Liga 3 2021 Zona Jawa Tengah",
+      "imgUrl1": "https://sigijateng.id/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-15-at-19.46.16.jpeg",
+      "imgUrl2": "https://asset-2.tstatic.net/jateng/foto/bank/images/selebrasi-pemain-persipa-pati-melawan-psd-demak.jpg",
+      "imgUrl3": "https://cdn-2.tstatic.net/banyumas/foto/bank/images2/laga-persipa-pati-vs-psip-pemalang.jpg",
+      "imgUrl4": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/radarkudus/2021/12/PERSIPA-3.jpg",
+      "imgUrl5": "https://asset-2.tstatic.net/tribunnews/foto/bank/images/persipa-pati-juara-liga-3-2021-regional-jawa-tengah_20211216_151304.jpg",
+      "imgUrl6": "https://media.suara.com/pictures/970x544/2022/02/09/90662-persipa-pati.jpg"
+    },
+    {
+      "eventName": "Liga 2 2022-2023",
+      "imgUrl1": "https://asset-2.tstatic.net/banyumas/foto/bank/images/persipa-pati-menang-telak-melawan-ps-bangka-setara.jpg",
+      "imgUrl2": "https://asset-2.tstatic.net/banyumas/foto/bank/images/persipa-pati-vs-farmel-fc.jpg",
+      "imgUrl3": "https://cdn.antaranews.com/cache/800x533/2022/09/18/persipa-persijap.jpg",
+      "imgUrl4": "https://thumb.tvonenews.com/thumbnail/2022/09/19/6327c9cf6ed23-persipa-pati-vs-persijap-jepara-dalam-lanjutan-kompetisi-liga-2-grup-tengah-berakhir-imbang-2-2-minggu-1892022-sore_1265_711.jpg",
+      "imgUrl5": "https://assets.suaramerdeka.com/crop/0x0:0x0/750x500/webp/photo/2022/09/11/1090521157.jpg",
+      "imgUrl6": "https://awsimages.detik.net.id/community/media/visual/2022/08/30/nusantara-united-vs-persipa-pati-dalam-laga-perdana-liga-2-20222023-di-stadion-moch-soebroto-kota-magelang-selasa-3082022-2_169.jpeg?w=650&q=80"
+    }
+  ],
+  "events": [
+    {
+      "name": "Club Chelsea Member’s Event",
+      "imgUrl": "https://events.chelseafc.com/wp-content/uploads/2023/03/CL2_0368_LNgSLgVJ-scaled-650x433.jpg",
+      "date": "2023-08-01",
+      "overview": "Club Chelsea hosted an evening to remember last night, Thursday 16th of March. Guests were treated to outstanding dining and entertainment as a thank you for their continued support. Over 1,000 attendees filled the Great Hall, which had been kitted out with a VR penalty shoot-out, living statues and magicians. Fans were delighted as a selection of trophies were revealed, giving them a once in a lifetime opportunity to have their photo taken with alongside pieces from Chelsea’s victorious history.",
+      "gmapIframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9938.877965668358!2d-0.1909565!3d51.481663!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760f864b976f3d%3A0x48aa38781ea565f8!2sStamford%20Bridge!5e0!3m2!1sen!2sid!4v1689651308687!5m2!1sen!2sid",
+      "facilitiesInfo": "Stamford Bridge (/ˈstæmfərd/) is a football stadium in Fulham, adjacent to the borough of Chelsea in West London. It is the home of Premier League club Chelsea. With a capacity of 40,343, it is the ninth largest venue of the 2023–24 Premier League season and the eleventh largest football stadium in England.",
+      "facilitiesImgUrl1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stamford_Bridge_Clear_Skies.JPG/1200px-Stamford_Bridge_Clear_Skies.JPG",
+      "facilitiesImgUrl2": "https://res.cloudinary.com/brentford-fc/image/upload/f_auto,q_auto:best,f_auto,q_100,c_fill,ar_16:9/Production/GettyImages-1479801214_hnypfy.jpg",
+      "organizerName": "Jonathan Goldstein",
+      "organizerPhone": "08123456789",
+      "organizerEmail": "goldstein@email.com",
+      "organizerWebsite": "https://events.chelseafc.com/",
+      "eventStartTime": "08.00",
+      "eventBreakTime": "12.00",
+      "eventEndTime": "14.00",
+      "venueName": "The Great Hall",
+      "venueAddress": "Fulham Rd., London SW6 1HS",
+      "venueCountry": "United Kingdom"
+    },
+    {
+      "name": "#ILOVEUNITED",
+      "imgUrl": "https://assets.manutd.com/AssetPicker/images/0/0/11/23/726854/GettyImages_12865741676380285788_large.jpg",
+      "date": "2023-08-11",
+      "overview": "Manchester United’s international fan event, #ILOVEUNITED is coming to Los Angeles, California for the first time on Sunday 5 March for a live screening of the club’s huge Premier League match against Liverpool. #ILOVEUNITED LA will be a three-week celebration of support for the Reds in the US, featuring locally tailored content across club channels, including a special edition of the award-winning UTD Podcast, starring former United striker and current LA Galaxy favourite Javier Hernandez.",
+      "gmapIframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13225.515237239966!2d-118.2407395!3d34.0341528!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c6257fcae331%3A0x2e96ace5b2012bed!2sROW%20DTLA!5e0!3m2!1sen!2sid!4v1689652026395!5m2!1sen!2sid",
+      "facilitiesInfo": "Once the historic LA Terminal Market, ROW DTLA is a compilation of impressive industrial buildings built a century ago and designed to support Los Angeles’ commercial spirit. Sprawled over 2 million sqft along the Southern Pacific Railroad, the LA Terminal Market played a critical role in the distribution of produce and goods throughout the region. Today, in the early morning hours, the local grocery distributors continue to meet at the Produce Market adjacent to ROW DTLA, where they have met since the early 1900s.",
+      "facilitiesImgUrl1": "https://d3nxoulyw7bc8u.cloudfront.net/images/venue/None/c2a4d052-a440-4f56-99fa-83dd2282a658.jpg",
+      "facilitiesImgUrl2": "https://amfdtla.com/wp-content/uploads/2019/08/venue-395919-1200x630.jpg",
+      "organizerName": "Victoria Timpson",
+      "organizerPhone": "08123456789",
+      "organizerEmail": "timpson@email.com",
+      "organizerWebsite": "https://www.manutd.com/",
+      "eventStartTime": "06.30",
+      "eventBreakTime": "08.30",
+      "eventEndTime": "10.00",
+      "venueName": "Skylight ROW DTLA",
+      "venueAddress": "777 S Alameda St, Los Angeles, CA 90021",
+      "venueCountry": "United States"
+    }
+  ],
+  "matchResults": [
+    {
+      "placeName": "A. Le Coq Arena",
+      "placeImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/30/8f/a9/20180815-220030-largejpg.jpg?w=1200&h=-1&s=1",
+      "teamA": "Flora",
+      "teamB": "Raków",
+      "overview": "The UEFA Champions League is an annual club association football competition organised by the Union of European Football Associations and contested by top-division European clubs, deciding the competition winners through a round robin group stage to qualify for a double-legged knockout format, and a single leg final.",
+      "date": "2023-07-19",
+      "time": "00.00",
+      "fulltime": "Fulltime",
+      "teamALogo": "https://cdn.sportfeeds.io/soccer/images/teams/150x150/uuid_1rfuyt1v2hq9gp7xi55x56fi2.png",
+      "teamBLogo": "https://cdn.sportfeeds.io/soccer/images/teams/150x150/uuid_1sxaf8l7fknmucd72fdretogm.png",
+      "teamAScore": 0,
+      "teamBScore": 3,
+      "highlightUrl": "https://www.youtube.com/watch?v=E3JJCLemYEQ",
+      "insightImgUrl": "https://f12.pmo.ee/JeZy2SuADX-PB7lKmPXcCfPqsuc=/685x0/nginx/o/2023/07/18/15464724t1h9cfb.jpg",
+      "insightVideoUrl": "https://www.youtube.com/watch?v=c2AEvFwa7ZA",
+      "insightDate": "2023-07-19",
+      "insightTime": "00.00",
+      "insightLeague": "UEFA Champions League",
+      "insightSeason": 2023,
+      "insightFulltime": 90,
+      "locationUrl": "https://www.google.com/maps/place/A.+Le+Coq+Arena/@59.4213695,24.7320774,15z/data=!4m2!3m1!1s0x0:0x742fd8a14b98bff2?sa=X&ved=2ahUKEwjo3-SE65qAAxXk7jgGHWLgAbgQ_BJ6BAhSEAA&ved=2ahUKEwjo3-SE65qAAxXk7jgGHWLgAbgQ_BJ6BAhoEAg",
+      "gmapIframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8118.807105477427!2d24.7320774!3d59.4213695!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46929496b747d07d%3A0x742fd8a14b98bff2!2sA.%20Le%20Coq%20Arena!5e0!3m2!1sen!2sid!4v1689772057403!5m2!1sen!2sid",
+      "teamA1HScore": 0,
+      "teamA2HScore": 0,
+      "teamB1HScore": 0,
+      "teamB2HScore": 3,
+      "referee": "Marian Alexandru Barbu",
+      "assistantRef": "Mihai Marius Marica",
+      "timeKeepers": "Marcel Bîrsan"
+    },
+    {
+      "placeName": "Estádio Cícero Pompeu de Toledo (Morumbi)",
+      "placeImgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Est%C3%A1dio_do_Morumbi.jpg",
+      "teamA": "São Paulo",
+      "teamB": "Santos",
+      "overview": "The Campeonato Brasileiro Série A, commonly referred to as the Brasileirão, and also known as Brasileirão Assaí due to sponsorship with Assaí Atacadista, is a Brazilian professional league for men's football clubs. At the top of the Brazilian football league system, it is the country's primary football competition.",
+      "date": "2023-07-17",
+      "time": "02.00",
+      "fulltime": "Fulltime",
+      "teamALogo": "https://cdn.sportfeeds.io/soccer/images/teams/150x150/uuid_5p301ikmaba9gesscss3zo745.png",
+      "teamBLogo": "https://cdn.sportfeeds.io/soccer/images/teams/150x150/uuid_1icvp50kgaw8oduqmhyt3iex0.png",
+      "teamAScore": 4,
+      "teamBScore": 1,
+      "highlightUrl": "https://www.youtube.com/watch?v=xiD75Xq6Vxs",
+      "insightImgUrl": "https://staticg.sportskeeda.com/editor/2023/07/b6c19-16894305514402-1920.jpg?w=840",
+      "insightVideoUrl": "https://www.youtube.com/watch?v=9qt4G1bo3m8",
+      "insightDate": "2023-07-17",
+      "insightTime": "02.00",
+      "insightLeague": "Campeonato Brasileiro Série A",
+      "insightSeason": 2023,
+      "insightFulltime": 90,
+      "locationUrl": "https://www.google.com/maps/place/Allianz+Parque/@-23.5276207,-46.6784662,15z/data=!4m2!3m1!1s0x0:0x864e5421d6195cb1?sa=X&ved=2ahUKEwjawtHajZuAAxVyyzgGHXhyDU4Q_BJ6BAhVEAA&ved=2ahUKEwjawtHajZuAAxVyyzgGHXhyDU4Q_BJ6BAhrEAg",
+      "gmapIframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14632.542857604645!2d-46.6784662!3d-23.5276207!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57fd1d715d45%3A0x864e5421d6195cb1!2sAllianz%20Parque!5e0!3m2!1sen!2sid!4v1689781257326!5m2!1sen!2sid",
+      "teamA1HScore": 2,
+      "teamA2HScore": 2,
+      "teamB1HScore": 0,
+      "teamB2HScore": 1,
+      "referee": "Braulio da Silva Machado",
+      "assistantRef": "Kleber Lucio Gil",
+      "timeKeepers": "Ilbert Estevam Da Silva"
+    }
+  ],
+  "matchPlayers": [
+    {
+      "matchId": 1,
+      "club": "Flora",
+      "playerName": "M. Seppik",
+      "playerNumber": 43,
+      "playerPosition": "Defender",
+      "playerGoals": 0,
+      "playerOwnGoals": 0,
+      "playerAssists": 0,
+      "playerYellowCards": 1,
+      "playerRedCards": 0
+    },
+    {
+      "matchId": 1,
+      "club": "Raków",
+      "playerName": "G. Papanikolaou",
+      "playerNumber": 66,
+      "playerPosition": "Mid-Fielder",
+      "playerGoals": 1,
+      "playerOwnGoals": 0,
+      "playerAssists": 0,
+      "playerYellowCards": 0,
+      "playerRedCards": 0
+    },
+    {
+      "matchId": 1,
+      "club": "Raków",
+      "playerName": "L. Zwoliński",
+      "playerNumber": 9,
+      "playerPosition": "Forward",
+      "playerGoals": 2,
+      "playerOwnGoals": 0,
+      "playerAssists": 0,
+      "playerYellowCards": 0,
+      "playerRedCards": 0
+    },
+    {
+      "matchId": 1,
+      "club": "Raków",
+      "playerName": "E. Svarnas",
+      "playerNumber": 4,
+      "playerPosition": "Defender",
+      "playerGoals": 0,
+      "playerOwnGoals": 0,
+      "playerAssists": 0,
+      "playerYellowCards": 1,
+      "playerRedCards": 0
+    },
+    {
+      "matchId": 2,
+      "club": "São Paulo",
+      "playerName": "Alexandre Pato",
+      "playerNumber": 12,
+      "playerPosition": "Forward",
+      "playerGoals": 2,
+      "playerOwnGoals": 0,
+      "playerAssists": 0,
+      "playerYellowCards": 0,
+      "playerRedCards": 0
+    },
+    {
+      "matchId": 2,
+      "club": "São Paulo",
+      "playerName": "David",
+      "playerNumber": 22,
+      "playerPosition": "Forward",
+      "playerGoals": 1,
+      "playerOwnGoals": 0,
+      "playerAssists": 1,
+      "playerYellowCards": 1,
+      "playerRedCards": 0
+    },
+    {
+      "matchId": 2,
+      "club": "São Paulo",
+      "playerName": "J. Calleri",
+      "playerNumber": 9,
+      "playerPosition": "Forward",
+      "playerGoals": 1,
+      "playerOwnGoals": 0,
+      "playerAssists": 0,
+      "playerYellowCards": 0,
+      "playerRedCards": 0
+    },
+    {
+      "matchId": 2,
+      "club": "Santos",
+      "playerName": "Marcos Leonardo",
+      "playerNumber": 9,
+      "playerPosition": "Forward",
+      "playerGoals": 1,
+      "playerOwnGoals": 0,
+      "playerAssists": 0,
+      "playerYellowCards": 0,
+      "playerRedCards": 0
+    },
+    {
+      "matchId": 2,
+      "club": "Santos",
+      "playerName": "M. Araújo",
+      "playerNumber": 15,
+      "playerPosition": "Mid-Fielder",
+      "playerGoals": 0,
+      "playerOwnGoals": 0,
+      "playerAssists": 0,
+      "playerYellowCards": 1,
+      "playerRedCards": 1
+    }
+  ],
+  "categories": [
+    {
+      "name": "Business"
+    },
+    {
+      "name": "Consultant"
+    },
+    {
+      "name": "Creative"
+    },
+    {
+      "name": "UI/UX"
+    },
+    {
+      "name": "Technologies"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Popular"
+    },
+    {
+      "name": "Design"
+    },
+    {
+      "name": "UX"
+    },
+    {
+      "name": "Usability"
+    },
+    {
+      "name": "Develop"
+    },
+    {
+      "name": "Icon"
+    },
+    {
+      "name": "Business"
+    },
+    {
+      "name": "Consult"
+    },
+    {
+      "name": "Kit"
+    },
+    {
+      "name": "Keyboard"
+    },
+    {
+      "name": "Mouse"
+    },
+    {
+      "name": "Tech"
+    },
+    {
+      "name": "Football"
+    }
+  ],
+  "news": [
+    {
+      "title": "Persipa Pati Benahi Manajemen",
+      "subtitle": "Jelang Bergulirnya Liga 2",
+      "snippet": "Provinsi Jawa Tengah resmi menambah satu wakilnya di kompetisi Liga 2 musim depan setelah Persipa Pati dipastikan promosi. Klub berjuluk Laskar Saridin ini berhasil promosi setelah menempati peringkat kedua Grup CC pada babak 16 besar Liga 3 Nasional.",
+      "views": 100,
+      "date": "2023-03-24",
+      "content1": "Persipa serius mempersiapkan kompetisi Liga 2. Selain mempersiapkan tim, Persipa juga fokus membenani manajemen. \"Keduanya harus berjalan. Karena Liga 2 merupakan kompetisi profesional, jadi kami harus lebih siap mengelola klub lebih baik lagi,\" ujar CEO Persipa Joni Kurnianto, Selasa (13/6). Dia menyebut, pembenahan manajemen merupakan tuntutan kondisi. Itu bukan berarti terdapat persoalan, tetapi lebih pada memperkuat manajemen untuk menjawab tantangan yang semakin berat. \"Sekarang ada presiden (Persipa). Dibenahi semua, baik dari luar maupun dalam,\" katanya. Di luar itu, pihak klub berjuluk Laskar Saridin aktif menjalin hubungan dengan klub Liga 2 lain. Itu lantaran ketentuan teknis berkait Liga 2 masih belum jelas. Menurutnya, saat ini sudah ada draf penyelenggaraan Liga 2 dari PSSI. Namun, klub masih belum menangkap konsepnya secara jelas.",
+      "content2": "\"Kami sangat mengharapkan ada pertemuan owner-owner klub Liga 2, kemungkinan setelah pertandingan Indonesia versus Argentina. Setidaknya mendiskusikan pematangan sistem Liga 2 secara bersama-sama,\" jelasnya. Sementara, mengenai persiapan tim, Joni mengungkapkan Persipa telah melakukannya sejak awal bulan ini. Penjaringan pemain muda lokal dilakukan melalui trial yang dipimpin Nazal Mustofa. Setidaknya ada 20 pemain muda dari sejumlah akademi di bawah naungan klub Liga 1 serta 2 di Jawa Tengah dan sekitarnya yang dicoba. Performa mereka dipantau secara menyeluruh. Tidak sebatas aspek skill, tetapi juga attitude-nya.",
+      "content3": "Menurut Joni, Persipa memiliki program pengembangan pemain muda. Itu merupakan konsistensi program lanjutan Laskar Saridin sejak masih berkompetisi di Liga 3. Pihaknya juga mengundang sejumlah pemain lama. Namun, perlakuannya sama dengan pemain lainnya yang mengikuti trial.",
+      "content4": "Surveying the existing landscape of available developer tools and runtimes, we felt that there is a gap. Enabling dynamic commerce requires close integration between server and client, an optimized streaming and data fetch strategy, and a production platform that operates at scale. These are hard technical problems that Shopify can help solve and this is why we’ve been hard at work on the Hydrogen framework. It’s a React-based framework optimized for commerce and specialized to be powered by Shopify APIs and infrastructure: The future of commerce is dynamic and personalized.",
+      "imgUrl1": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/06/14/fendi4-3934470159.jpg",
+      "imgUrl2": "https://muriasport.com/wp-content/uploads/2022/12/IMG_20221203_174238.jpg",
+      "vidUrl": "https://www.youtube.com/watch?v=GX3zF-bKv6E",
+      "quote": "Choices to take a holiday and travelling out inthis pandemic situation are limited. Why not take a stay action on quality.",
+      "quotePerson": "Rosalina D. William",
+      "quotePersonPos": "Founder",
+      "author": "Rosalina D. William",
+      "authorImgUrl": "https://cdn1-production-images-kly.akamaized.net/Axs7MKUSVCaV-nWH8QSU-NIpeeQ=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4001687/original/093403400_1650513475-IMG_0046.JPG",
+      "authorAbout": "Getting fast initial render with streaming server-side rendering, efficient component-level updates and state transitions, while also setting up a performant loading and bundling strategy.",
+      "categoryId": 1
+    },
+    {
+      "title": "Pemain Persipa Pati Digembleng Lari Puluhan Kilometer di Kaki Gunung Muria",
+      "subtitle": "Tingkatkan Kebugaran",
+      "snippet": "Para pemain Persipa Pati terus mendapatkan gemblengan dari pelatih fisik. Salah satunya lewat materi latihan cross country atau lari lintas alam. Para pemain diminta berlari di medan yang menanjak di kawasan pegunungan.",
+      "views": 50,
+      "date": "2023-07-22",
+      "content1": "Para pemain Persipa Pati terus mendapatkan gemblengan dari pelatih fisik. Salah satunya lewat materi latihan cross country atau lari lintas alam. Para pemain diminta berlari di medan yang menanjak di kawasan pegunungan. Materi latihan cross country diberikan tim pelatih, Sabtu (22/7/2023) pagi. Jarak lari yang ditempuh para pemain ialah sejauh 10 kilometer. Seluruh pemain Laskar Saridin mengikuti materi yang dipimpin langsung oleh pelatih fisik Mukhlis. “Pemain kami berikan materi latihan cross country ini demi melatih endurance atau daya tahan. Tujuannya untuk meningkatkan VO2 Max (jumlah maksimum oksigen yang dapat manusia gunakan selama berolahraga). Karena itu kami memilih rute lari yang sedikit menanjak,” terang Mukhlis.",
+      "content2": "Latihan cross country ini diterapkan di lereng Pegunungan Muria, tepatnya di kawasan Waduk Gunungrowo. Peningkatan fisik dan kebugaran pemain memang menjadi sorotan tim pelatih Persipa Pati. Hal itu diungkapkan Head Coach Persipa Nazal Mustofa. Pihaknya merasa kebugaran para pemain perlu ditingkatkan dalam pekan-pekan ini sebelum latihan difokuskan dalam hal taktik permainan. “Kebugaran masih perlu ditingkatan, fisik ini masih menjadi perhatian kita. Akan ditingkatkan terus. Fisik ini penting untuk menunjang permainan di lapangan nanti,” papar dia usai melakoni laga ujicoba melawan Persijap Jepara di Stadion Joyokusumo, Pati, Minggu (16/7/2023) lalu.",
+      "content3": "Menurut Joni, Persipa memiliki program pengembangan pemain muda. Itu merupakan konsistensi program lanjutan Laskar Saridin sejak masih berkompetisi di Liga 3. Pihaknya juga mengundang sejumlah pemain lama. Namun, perlakuannya sama dengan pemain lainnya yang mengikuti trial.",
+      "content4": "Surveying the existing landscape of available developer tools and runtimes, we felt that there is a gap. Enabling dynamic commerce requires close integration between server and client, an optimized streaming and data fetch strategy, and a production platform that operates at scale. These are hard technical problems that Shopify can help solve and this is why we’ve been hard at work on the Hydrogen framework. It’s a React-based framework optimized for commerce and specialized to be powered by Shopify APIs and infrastructure: The future of commerce is dynamic and personalized.",
+      "imgUrl1": "https://asset-2.tstatic.net/jateng/foto/bank/images/pemain-Persipa-Pati-cross-country.jpg",
+      "imgUrl2": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/07/19/528432051.jpg",
+      "vidUrl": "https://www.youtube.com/watch?v=qIuu8thWj7E",
+      "quote": "Choices to take a holiday and travelling out inthis pandemic situation are limited. Why not take a stay action on quality.",
+      "quotePerson": "Rosalina D. William",
+      "quotePersonPos": "Founder",
+      "author": "Rosalina D. William",
+      "authorImgUrl": "https://cdn1-production-images-kly.akamaized.net/Axs7MKUSVCaV-nWH8QSU-NIpeeQ=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4001687/original/093403400_1650513475-IMG_0046.JPG",
+      "authorAbout": "Getting fast initial render with streaming server-side rendering, efficient component-level updates and state transitions, while also setting up a performant loading and bundling strategy.",
+      "categoryId": 2
+    }
+  ],
+  "newsTags": [
+    {
+      "newsId": 1,
+      "tagId": 2
+    },
+    {
+      "newsId": 1,
+      "tagId": 5
+    },
+    {
+      "newsId": 1,
+      "tagId": 13
+    },
+    {
+      "newsId": 2,
+      "tagId": 6
+    },
+    {
+      "newsId": 2,
+      "tagId": 9
+    },
+    {
+      "newsId": 2,
+      "tagId": 13
+    }
+  ],
+  "comments": [
+    {
+      "commenter": "Rosalina Kelian",
+      "commenterImgUrl": "https://asset.indosport.com/article/image/q/80/359952/ceo_persipa_pati_joni_kurnianto-169.jpg",
+      "date": "2023-03-24",
+      "commentText": "But that's not all. Not to be outdone, individual sellers have increasingly engaged in e-commerce transactions via their own personal websites. And digital marketplaces such as eBay or Etsy serve as exchanges where multitudes of buyers and sellers come together to conduct business. commerce has changed the way people shop and consume products and services.",
+      "commenterEmail": "kelian@email.com",
+      "commenterWebsite": "persipa.com",
+      "newsId": 1,
+      "parentCommentId": -1
+    },
+    {
+      "commenter": "Alonso William",
+      "commenterImgUrl": "https://cdn1-production-images-kly.akamaized.net/Axs7MKUSVCaV-nWH8QSU-NIpeeQ=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4001687/original/093403400_1650513475-IMG_0046.JPG",
+      "date": "2023-03-24",
+      "commentText": "Ecommerce has changed the way people shop and consume products and services. More and more people are turning to their computers and smart devices to order goods, which can easily be delivered to their homes. As such, it has disrupted the retail landscape. Amazon and Alibaba have gained considerable popularity.",
+      "commenterEmail": "kelian@email.com",
+      "commenterWebsite": "persipa.com",
+      "newsId": 1,
+      "parentCommentId": 1
+    },
+    {
+      "commenter": "Miranda Halim",
+      "commenterImgUrl": "https://asset.indosport.com/article/image/q/80/359952/ceo_persipa_pati_joni_kurnianto-169.jpg",
+      "date": "2023-03-24",
+      "commentText": "commerce has changed the way people shop and consume products and services. More and more people are turning to their computers and smart devices to order goods, which can easily be delivered to their homes. As such, it has disrupted the retail landscape. Amazon and Alibaba have gained considerable popularity.",
+      "commenterEmail": "kelian@email.com",
+      "commenterWebsite": "persipa.com",
+      "newsId": 1,
+      "parentCommentId": -1
+    },
+    {
+      "commenter": "Mazka Hauzan Naufal",
+      "commenterImgUrl": "https://asset-2.tstatic.net/jateng/foto/bank/images/Pj-Bupati-Jepara-Edy-Supriyanta-agustus-2022.jpg",
+      "date": "2023-03-24",
+      "commentText": "But that's not all. Not to be outdone, individual sellers have increasingly engaged in e-commerce transactions via their own personal websites. And digital marketplaces such as eBay or Etsy serve as exchanges where multitudes of buyers and sellers come together to conduct business. commerce has changed the way people shop and consume products and services.",
+      "commenterEmail": "kelian@email.com",
+      "commenterWebsite": "persipa.com",
+      "newsId": 2,
+      "parentCommentId": -1
+    },
+    {
+      "commenter": "Catur Waskito Edy",
+      "commenterImgUrl": "https://cdn-2.tstatic.net/jateng/foto/bank/images2/catur-waskito-edi-wartawan-tribun-jateng.jpg",
+      "date": "2023-03-24",
+      "commentText": "Ecommerce has changed the way people shop and consume products and services. More and more people are turning to their computers and smart devices to order goods, which can easily be delivered to their homes. As such, it has disrupted the retail landscape. Amazon and Alibaba have gained considerable popularity.",
+      "commenterEmail": "kelian@email.com",
+      "commenterWebsite": "persipa.com",
+      "newsId": 2,
+      "parentCommentId": 1
+    },
+    {
+      "commenter": "Dr. Angkasa",
+      "commenterImgUrl": "https://asset-2.tstatic.net/jateng/foto/bank/images/Dr-Angkasa-SH-MHum.jpg",
+      "date": "2023-03-24",
+      "commentText": "commerce has changed the way people shop and consume products and services. More and more people are turning to their computers and smart devices to order goods, which can easily be delivered to their homes. As such, it has disrupted the retail landscape. Amazon and Alibaba have gained considerable popularity.",
+      "commenterEmail": "kelian@email.com",
+      "commenterWebsite": "persipa.com",
+      "newsId": 2,
+      "parentCommentId": -1
+    }
+  ],
+  "managements": [
+    {
+      "name": "Nazal Mustofa",
+      "imageUrl": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/09/28/2452562877.jpg",
+      "position": "Coach",
+      "nationality": "Indonesian",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Indonesia_flag_300.png",
+      "currentTeam": "Persipa Pati",
+      "pastTeam": "Persekat",
+      "age": 45
+    },
+    {
+      "name": "Dian Dwi Budianto",
+      "imageUrl": "https://storage.googleapis.com/ares-profile-pictures/hd/dian_dwi_budianto-b45fc1472727290853e0a5875adec43a_hd.jpg",
+      "position": "Manager",
+      "nationality": "Indonesian",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Indonesia_flag_300.png",
+      "currentTeam": "Persipa Pati",
+      "pastTeam": "Persijap Jepara",
+      "age": 40
+    },
+    {
+      "name": "Joni Kurnianto",
+      "imageUrl": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/radarkudus/2022/07/WEB-JONI.jpg",
+      "position": "Owner",
+      "nationality": "Indonesian",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Indonesia_flag_300.png",
+      "currentTeam": "Persipa Pati",
+      "pastTeam": "N/A",
+      "age": 50
+    }
+  ]
+}
